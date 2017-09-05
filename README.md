@@ -1,7 +1,7 @@
 # attribution
 
 ## MBProgressHUD
-[https://github.com/jdg/MBProgressHUD]
+[https://github.com/jdg/MBProgressHUD](https://github.com/jdg/MBProgressHUD)
 
 ```
 The MIT License
