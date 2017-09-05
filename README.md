@@ -29,7 +29,7 @@ THE SOFTWARE.
 
 ## FPPopover
 
-https://github.com/alvises/FPPopover
+[https://github.com/alvises/FPPopover](https://github.com/alvises/FPPopover)
 
 
 ```
@@ -61,8 +61,8 @@ https://github.com/alvises/FPPopover
 
 ## Facebook SDK
 
-https://github.com/facebook/facebook-android-sdk
-https://github.com/facebook/facebook-ios-sdk
+[https://github.com/facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk)
+[https://github.com/facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk)
 
 ```
                                  Apache License
@@ -270,7 +270,7 @@ https://github.com/facebook/facebook-ios-sdk
 
 ## WebM Project
 
-https://www.webmproject.org/code/
+[https://www.webmproject.org/code/](https://www.webmproject.org/code/)
 
 ```
 Redistribution and use in source and binary forms, with or without
@@ -305,7 +305,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## Opus
 
-https://www.opus-codec.org/
+[https://www.opus-codec.org/](https://www.opus-codec.org/)
 
 ```
 Redistribution and use in source and binary forms, with or without
@@ -339,7 +339,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## Speex
 
-https://www.speex.org/
+[https://www.speex.org/](https://www.speex.org/)
 
 ```
 Copyright 2002-2008   Xiph.org Foundation
@@ -381,7 +381,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## WSCoachMarksView
 
-https://www.webmproject.org/code/
+[https://www.webmproject.org/code/](https://www.webmproject.org/code/)
 
 ```
 Copyright (c) 2013 Workshirt, Inc. All rights reserved.
@@ -407,39 +407,43 @@ THE SOFTWARE.
 
 ## volley
 
-https://android.googlesource.com/platform/frameworks/volley/
+[https://android.googlesource.com/platform/frameworks/volley/](https://android.googlesource.com/platform/frameworks/volley/)
 
 ## ActiveAndroid
 
-http://www.activeandroid.com/
+[http://www.activeandroid.com/](http://www.activeandroid.com/)
 
 # 6Wunderkinder
-https://github.com/wunderlist/android-sliding-layer-lib
+
+[https://github.com/wunderlist/android-sliding-layer-lib](https://github.com/wunderlist/android-sliding-layer-lib)
 
 ## Card Library
-https://github.com/gabrielemariotti/cardslib
+
+[https://github.com/gabrielemariotti/cardslib](https://github.com/gabrielemariotti/cardslib)
 
 ## ButterKnife
 
-https://github.com/JakeWharton/butterknife
+[https://github.com/JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)
 
 ## Crouton
 
-https://github.com/keyboardsurfer/Crouton
+[https://github.com/keyboardsurfer/Crouton](https://github.com/keyboardsurfer/Crouton)
 
 ## NineOldAndroids
-http://nineoldandroids.com/
+
+[http://nineoldandroids.com/](http://nineoldandroids.com/)
 
 ## LeakCanary
-https://github.com/square/leakcanary
+
+[https://github.com/square/leakcanary](https://github.com/square/leakcanary)
 
 ## EventBus
 
-https://github.com/greenrobot/EventBus
+[https://github.com/greenrobot/EventBus](https://github.com/greenrobot/EventBus)
 
 ## Sliding Up Panel
 
-https://github.com/umano/AndroidSlidingUpPanel
+[https://github.com/umano/AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)
 
 ```
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:
@@ -451,7 +455,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 ## glide
 
-https://github.com/bumptech/glide
+[https://github.com/bumptech/glide](https://github.com/bumptech/glide)
 
 ```
 License for everything not in third_party and not otherwise marked:
@@ -552,7 +556,7 @@ that this copyright notice remain intact.
 
 ## issue-reporter-android
 
-https://github.com/cookpad/issue-reporter-android
+[https://github.com/cookpad/issue-reporter-android](https://github.com/cookpad/issue-reporter-android)
 
 ```
 Copyright (c) 2014 Cookpad Inc.
@@ -581,7 +585,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Project Lombok
 
-https://projectlombok.org/
+[https://projectlombok.org/](https://projectlombok.org/)
 
 ```
 The MIT License (MIT)
@@ -609,7 +613,7 @@ THE SOFTWARE.
 
 ## Dagger
 
-http://square.github.io/dagger/
+[http://square.github.io/dagger/](http://square.github.io/dagger/)
 
 ```
 Apache License
@@ -631,7 +635,7 @@ limitations under the License.
 
 ## Java Hamcrest
 
-http://hamcrest.org/JavaHamcrest/
+[http://hamcrest.org/JavaHamcrest/](http://hamcrest.org/JavaHamcrest/)
 
 ```
 Copyright (c) 2012-, hamcrest.org All rights reserved.
@@ -661,7 +665,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## Mockito
 
-https://github.com/mockito/mockito
+[https://github.com/mockito/mockito](https://github.com/mockito/mockito)
 
 ```
 The MIT License (MIT)
@@ -676,7 +680,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## ExoPlayer
 
-https://github.com/google/ExoPlayer
+[https://github.com/google/ExoPlayer](https://github.com/google/ExoPlayer)
 
 ```
 
@@ -885,7 +889,7 @@ https://github.com/google/ExoPlayer
 
 ## okhttp
 
-https://github.com/square/okhttp
+[https://github.com/square/okhttp](https://github.com/square/okhttp)
 
 ```
 
@@ -1094,7 +1098,7 @@ https://github.com/square/okhttp
 
 ## twitter kit for android
 
-https://github.com/twitter/twitter-kit-android
+[https://github.com/twitter/twitter-kit-android](https://github.com/twitter/twitter-kit-android)
 
 ```
 
@@ -1303,7 +1307,7 @@ https://github.com/twitter/twitter-kit-android
 
 ## Bolts
 
-http://boltsframework.github.io/Bolts-Android/
+[http://boltsframework.github.io/Bolts-Android/](http://boltsframework.github.io/Bolts-Android/)
 
 ```
 BSD License
@@ -1340,7 +1344,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## Twitter Emoji
 
-http://twitter.github.io/twemoji/
+[http://twitter.github.io/twemoji/](http://twitter.github.io/twemoji/)
 
 ```
     Attribution 4.0 International
@@ -1740,7 +1744,7 @@ Creative Commons may be contacted at creativecommons.org.
 
 ## ajaxzip3
 
-https://github.com/ajaxzip3/ajaxzip3.github.io
+[https://github.com/ajaxzip3/ajaxzip3.github.io](https://github.com/ajaxzip3/ajaxzip3.github.io)
 
 ```
 The MIT License (MIT)
